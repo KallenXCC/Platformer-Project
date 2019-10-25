@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Inventory
+comment0.text=\r\n\ Opening\ message\ board.\r\n\ \r\n\ @Autor\ Leon\ Wolters\r\n\ @version\ 26-03-2011\r\n
+comment1.params=a
+comment1.target=Inventory(java.util.List)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\r\n
+comment3.params=
+comment3.target=void\ makeImage()
+comment3.text=\r\n\r\n
+numComments=4

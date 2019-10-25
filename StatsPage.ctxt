@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=StatsPage
+comment0.text=\r\n\ Opening\ message\ board.\r\n\ \r\n\ @Autor\ Leon\ Wolters\r\n\ @version\ 26-03-2011\r\n
+comment1.params=p\ w\ h
+comment1.target=StatsPage(Player,\ int,\ int)
+comment1.text=\r\n\ \r\n
+comment2.params=p
+comment2.target=StatsPage(Player)
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\r\n
+comment4.params=
+comment4.target=void\ makeImage()
+comment4.text=\r\n\r\n
+numComments=5

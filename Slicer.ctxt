@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Slicer
+comment0.text=\r\n\ @author\ BuckLe\ Byhan\r\n\ @version\ 2013\r\n
+comment1.params=time\ right
+comment1.target=Slicer(int,\ boolean)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

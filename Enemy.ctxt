@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Enemy
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Attack\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=health\ atkPower\ BarWidth\ BarHeight
+comment1.target=Enemy(int,\ double,\ int,\ int)
+comment2.params=world
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ destroyEnemy()
+comment5.params=
+comment5.target=int\ getHealth()
+comment6.params=
+comment6.target=double\ getAtkPow()
+comment7.params=health
+comment7.target=void\ setHealth(int)
+numComments=8
